@@ -5,6 +5,7 @@
 	$address = $_POST["address"];
 	$age = $_POST["age"];
 
+	
 	// Prepare db connection
 	$servername = "localhost";
 	$username = "root";
